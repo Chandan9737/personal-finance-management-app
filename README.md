@@ -76,13 +76,3 @@ npx expo start
 
 ---
 
-## 📎 Screenshots (Add Later)
-
-```
-/assets/screenshots/home.png
-/assets/screenshots/add-expense.png
-...
-```
-
----
-
