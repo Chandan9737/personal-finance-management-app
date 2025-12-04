@@ -74,5 +74,6 @@ npx expo start
 * Dark mode UI
 * Category-based analytics
 
----
+--- screenshot---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ccb8b426-0868-43aa-ad9d-bc8fe97a56c7" />
 
